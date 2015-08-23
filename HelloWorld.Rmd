@@ -1,7 +1,0 @@
----
-title: "HelloWorld"
-author: "Chintamani Bhat"
-date: "August 23, 2015"
-output: html_document
----
-## This is a markdown file
